@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246883708180",
+    "project_id": "eightminimum123",
+    "storage_bucket": "eightminimum123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246883708180:android:5840b126841589f234e601",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcw4BPOvc_cpljsfWz08vbmy2DMsySTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/img"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:id="@+id/animatedText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clever than you think"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:visibility="invisible"
+        android:layout_below="@+id/logoImage"
+        android:layout_marginTop="150dp"/>
+
+</RelativeLayout>
